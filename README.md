@@ -1,4 +1,4 @@
-![image](https://github.com/rohankishore/CodeChallenges/assets/109947257/37b5dd5d-d257-45b6-9466-b8f6035382de)
+![image](https://github.com/rohankishore/HackerRank/assets/109947257/86d66e10-04e1-4b4f-aa8b-a8d3c288e45c)
 
 This repo contains the code of HackerRank challenges that I solve daily. This includes their DSA problems, 30 Days of Code, 10 Days of Statistics and much more.
 
