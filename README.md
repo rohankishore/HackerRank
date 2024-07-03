@@ -4,6 +4,10 @@ This repo contains the code of HackerRank challenges that I solve daily. This in
 
 You can learn more about each challenge by clicking on their respective folder. There's a README with the challenge link and its contents (on work. updating regularly).
 
+## Currently Solving Challenges
+1. 30 Days of Code
+2. 10 Days of Statistics
+
 > This repo is just to view my progress in coding. 
 
 Thanks!
