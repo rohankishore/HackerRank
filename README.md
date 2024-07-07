@@ -7,6 +7,7 @@ You can learn more about each challenge by clicking on their respective folder. 
 ## Currently Solving Challenges
 1. 30 Days of Code
 2. 10 Days of Statistics
+3. Algorithms DSA
 
 > This repo is just to view my progress in coding. 
 
