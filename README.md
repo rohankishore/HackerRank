@@ -11,6 +11,8 @@ You can learn more about each challenge by clicking on their respective folder. 
 
 <br>
 
-> This repo is just to view my progress in coding. 
+> This repo is just to view my progress in coding.
 
-Thanks!
+<br>
+
+****Thanks!****
